@@ -1,0 +1,35 @@
+.globalContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+input {
+  width: 115px;
+  margin-top: 10px;
+}
+
+img {
+  width: 300px;
+  margin: 10px;
+  border: solid 4px rgb(58, 57, 57);
+  border-radius: 7px;
+}
+
+p {
+  text-align: center;
+}
+
+#idAnswer {
+  text-align: center;
+}
